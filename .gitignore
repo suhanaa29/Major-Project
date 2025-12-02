@@ -21,6 +21,7 @@
 *.a
 *.la
 *.lo
+desktop.ini
 
 # Shared objects (inc. Windows DLLs)
 *.dll
@@ -35,7 +36,7 @@
 *.i*86
 *.x86_64
 *.hex
-*.vscode/
+.vscode/
 
 # Debug files
 *.dSYM/
